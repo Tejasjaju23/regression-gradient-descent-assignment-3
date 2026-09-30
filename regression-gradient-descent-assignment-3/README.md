@@ -10,7 +10,7 @@
 
 ---
 
-# 1. 🎯 Project Overview
+# 1. Project Overview
 
 This project studies regression-based prediction using a real-world dataset and experimentally evaluates multiple regression approaches.
 
@@ -32,7 +32,7 @@ The implementation is designed around the supplied 10-mark rubric: model selecti
 
 ---
 
-# 2. 🧠 Why This Application?
+# 2.  Why This Application?
 
 The Diabetes dataset contains quantitative baseline measurements and a target representing a quantitative measure of disease progression one year after baseline.
 
@@ -51,7 +51,7 @@ The comparison is empirical. No model is declared universally best before the ex
 
 ---
 
-# 3. 📊 Dataset
+# 3. Dataset
 
 The project uses:
 
@@ -71,7 +71,7 @@ The dataset is included with scikit-learn, so no external CSV download is requir
 
 ---
 
-# 4. 🤖 Models Implemented
+# 4. Models Implemented
 
 ## 4.1 Linear Regression
 
@@ -140,7 +140,7 @@ The implementation records the training loss at every iteration.
 
 ---
 
-# 5. 📏 Evaluation Metrics
+# 5.  Evaluation Metrics
 
 The project reports multiple regression metrics.
 
@@ -186,7 +186,7 @@ It measures the proportion of target variance explained by the model relative to
 
 ---
 
-# 6. 🔬 Experimental Methodology
+# 6.  Experimental Methodology
 
 ```text
 Dataset
@@ -223,7 +223,7 @@ Conclusions
 
 ---
 
-# 7. ⚙️ Gradient Descent Experiments
+# 7.  Gradient Descent Experiments
 
 The project investigates multiple learning rates.
 
@@ -259,7 +259,7 @@ This makes it possible to analyze whether the learning rate is:
 
 ---
 
-# 8. 📈 Visualizations
+# 8.  Visualizations
 
 The benchmark generates:
 
@@ -294,7 +294,7 @@ Visualizes model predictions against actual target values.
 
 ---
 
-# 9. 📁 Repository Structure
+# 9.  Repository Structure
 
 ```text
 regression-gradient-descent-assignment-3/
@@ -334,7 +334,7 @@ regression-gradient-descent-assignment-3/
 
 ---
 
-# 10. 🛠️ Technology Stack
+# 10.  Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -348,7 +348,7 @@ regression-gradient-descent-assignment-3/
 
 ---
 
-# 11. 🚀 Installation
+# 11.  Installation
 
 Clone the repository:
 
@@ -381,7 +381,7 @@ pip install -r requirements.txt
 
 ---
 
-# 12. ▶️ Run the Project
+# 12.  Run the Project
 
 Run the complete experiment:
 
@@ -409,7 +409,7 @@ outputs/plots/
 
 ---
 
-# 13. 🧪 Testing
+# 13. Testing
 
 Run:
 
@@ -427,7 +427,7 @@ The tests check:
 
 ---
 
-# 14. 📊 Critical Analysis Framework
+# 14. Critical Analysis Framework
 
 The final analysis should answer:
 
@@ -454,7 +454,7 @@ Conclusions should be based on generated experimental evidence.
 
 ---
 
-# 15. 🎓 Rubric Alignment
+# 15.  Rubric Alignment
 
 ## A. Model Selection & Application — 2.5 Marks
 
@@ -533,7 +533,7 @@ The repository includes:
 
 ---
 
-# 16. ⚖️ Ethical Considerations
+# 16.  Ethical Considerations
 
 Because the selected dataset concerns health-related measurements, the results must be interpreted carefully.
 
@@ -548,7 +548,7 @@ Important considerations include:
 
 ---
 
-# 17. 🔮 Future Scope
+# 17.  Future Scope
 
 Possible improvements include:
 
@@ -568,7 +568,7 @@ Possible improvements include:
 
 ---
 
-# 18. 📝 Reflection
+# 18.  Reflection
 
 This project demonstrates that model development involves more than obtaining a prediction.
 
@@ -583,7 +583,7 @@ Important lessons include:
 
 ---
 
-# 19. 📌 Submission Checklist
+# 19.  Submission Checklist
 
 Before submission:
 
@@ -602,7 +602,7 @@ Before submission:
 
 ---
 
-# 20. 🏁 Conclusion
+# 20.  Conclusion
 
 This project provides a complete experimental study of regression modeling and Gradient Descent optimization.
 
@@ -612,7 +612,7 @@ The final conclusions should be based on the actual generated metrics and conver
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Tejasjaju23**
 
@@ -626,7 +626,7 @@ https://github.com/Tejasjaju23
 
 ---
 
-# 📚 References
+#  References
 
 1. James, G., Witten, D., Hastie, T. and Tibshirani, R. — *An Introduction to Statistical Learning*.
 2. Géron, A. — *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*.
