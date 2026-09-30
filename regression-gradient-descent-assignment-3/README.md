@@ -1,4 +1,4 @@
-# 📈 Assignment 3 — Regression Models & Gradient Descent
+#  Assignment 3 — Regression Models & Gradient Descent
 
 ## Problem Statements
 
