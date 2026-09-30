@@ -1,0 +1,4 @@
+Assignment 3: Regression Models and Gradient Descent
+Application: Diabetes disease-progression regression
+Author: Tejasjaju23
+Repository purpose: Academic AI/ML experimental evaluation
